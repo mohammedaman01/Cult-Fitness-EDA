@@ -16,7 +16,7 @@ Identify and handle missing values
 
 Detect and treat outliers
 
-Correct data types and inconsistencies
+Correct data types and inconsistencies 
 
 Perform feature-level analysis using visualizations
 
